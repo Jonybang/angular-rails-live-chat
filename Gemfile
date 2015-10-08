@@ -43,5 +43,27 @@ gem 'puma'
 gem 'redis'
 
 gem 'pry', group: [:development, :test]
-gem 'pry-debugger', group: [:development, :test]
+#gem 'pry-debugger', group: [:development, :test]
 gem 'pg'
+group :development do
+    gem 'capistrano',         require: false
+    gem 'capistrano-rvm',     require: false
+    gem 'capistrano-rails',   require: false
+    gem 'capistrano-bundler', require: false
+    gem 'capistrano3-puma',   require: false
+    gem 'capistrano-secrets-yml', '~> 1.0.0'
+    gem 'capistrano-postgresql'
+end
+
+gem 'puma'
+group :development do
+    gem 'capistrano',         require: false
+    gem 'capistrano-rvm',     require: false
+    gem 'capistrano-rails',   require: false
+    gem 'capistrano-bundler', require: false
+    gem 'capistrano3-puma',   require: false
+    gem 'capistrano-secrets-yml', '~> 1.0.0'
+    gem 'capistrano-postgresql'
+end
+
+gem 'puma'

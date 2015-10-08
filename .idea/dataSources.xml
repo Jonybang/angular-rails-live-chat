@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2306027751">
+    <data-source source="LOCAL" name="Rails angular-rails-live-chat: default" uuid="6fd68598-f797-403a-8fd2-7afdee3fe209">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:livechat</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails angular-rails-live-chat: development" uuid="51afa78f-0df1-4df7-9df0-d278702fb222">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:db/development.sqlite3</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails angular-rails-live-chat: test" uuid="d42fe424-0f73-4da1-bae2-71c12f45abf0">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:db/test.sqlite3</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails angular-rails-live-chat: production" uuid="145b34ea-6253-40e5-9435-6b419e88a3b8">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:db/production.sqlite3</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+

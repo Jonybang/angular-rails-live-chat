@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails angular-rails-live-chat: default" uuid="6fd68598-f797-403a-8fd2-7afdee3fe209">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails angular-rails-live-chat: development" uuid="51afa78f-0df1-4df7-9df0-d278702fb222">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails angular-rails-live-chat: test" uuid="d42fe424-0f73-4da1-bae2-71c12f45abf0">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails angular-rails-live-chat: production" uuid="145b34ea-6253-40e5-9435-6b419e88a3b8">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>
